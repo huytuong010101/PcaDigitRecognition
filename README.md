@@ -1,5 +1,5 @@
 # PcaDigitRecognition
-just a Digit recognition project
--pip install -r requirements.txt
--Open PCA.py
--Change value of path variable to path to test Image
+
+*pip install -r requirements.txt
+*Open PCA.py
+*Change value of path variable to path to test Image
